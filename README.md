@@ -1,4 +1,4 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# EXERCICO DO CURSO instagram-dio-master by kecolima@hotmail.com / kecolima.com.br! 🙃
 
 Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
 
